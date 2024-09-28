@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: rgb(240, 132, 150);
+    margin: 150px;
+    padding: 150px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: blue;
+    color: rgb(102, 0, 128);
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 100px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(55, 0, 128);
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(240, 132, 150);
+    color: rgb(55, 0, 128);
+    text-align: center;
+    padding: px;
+    position: ;
+    bottom: 0px;
+    width: 100%;
+}
+
+img {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+
+}
